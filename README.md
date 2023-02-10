@@ -7,7 +7,7 @@ THEMES:
 * West coast,the psd is above and not in folder! A theme suits for phopto bloggers
 
 
-
+GENESIS parent theme: * optimized and faster theme;)
 
 
 
