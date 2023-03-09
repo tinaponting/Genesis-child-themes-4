@@ -3,6 +3,7 @@ Genesis child themes, thats still works with Genesis framework
 
 THEMES:
 
+* Fun, An eCommerce Genesis Theme
 * Blush, works well as comapy,Selling, Influencer and so on.
 * Daisy, works well for photo blogs, fashion bloggers (to show fashion)
 * Artisanal, simple themes, works well, White.
