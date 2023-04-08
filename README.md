@@ -3,6 +3,7 @@ Genesis child themes, thats still works with Genesis framework
 
 THEMES:
 
+* Bonnie, simple theme, for writers och influencers, needa optimization.
 * Foxie, works best as travel/photo blogger.
 * Fun, An eCommerce Genesis Theme
 * Blush, works well as comapy,Selling, Influencer and so on.
