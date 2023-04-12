@@ -3,6 +3,7 @@ Genesis child themes, thats still works with Genesis framework
 
 THEMES:
 
+* Hello Beautiful, simpel theme with woocommerse. all kinds of blogs
 * Bonnie, simple theme, for writers och influencers, needa optimization.
 * Foxie, works best as travel/photo blogger.
 * Fun, An eCommerce Genesis Theme
