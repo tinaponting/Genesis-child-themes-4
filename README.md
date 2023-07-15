@@ -2,7 +2,7 @@
 Genesis child themes, thats still works with Genesis framework
 
 THEMES:
-
+* business pro, a theme for business theme for all kind of Business.
 * Park Avenue with WooCommerce and Portfolio.
 * Hello Beautiful, simpel theme with woocommerse. all kinds of blogs
 * Bonnie, simple theme, for writers och influencers, needa optimization.
