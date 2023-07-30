@@ -2,8 +2,9 @@
 Genesis child themes, thats still works with Genesis framework
 
 THEMES:
+* hello beautiful theme 2, sommon woman themme, with pink colurs, to small fo my taste, afflite?
 * Isabelle 6, fashion and news blog.
-* Classy Ink, woman blogger theme, to small for my taste, butb good afflite files.
+* Classy Ink, woman blogger theme, to small for my taste, but good afflite files.
 * business pro, a theme for business theme for all kind of Business.
 * Park Avenue with WooCommerce and Portfolio.
 * Hello Beautiful, simpel theme with woocommerse. all kinds of blogs
