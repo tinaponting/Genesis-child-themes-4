@@ -3,6 +3,7 @@ Genesis child themes, thats still works with Genesis framework
 
 THEMES:
 
+* Hello Madison, a theme dor all kinds of blogs
 * Hello Beauty
 * Designer, works as portfolio,travel and like that.
 * Bella, a common genesis theme.
