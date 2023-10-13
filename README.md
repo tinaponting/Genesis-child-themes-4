@@ -3,6 +3,8 @@ Genesis child themes, thats still works with Genesis framework
 
 THEMES:
 
+* Hello Beauty
+* Designer, works as portfolio,travel and like that.
 * Bella, a common genesis theme.
 * Ariana, good theme for bloggers or with feminine touch.
 * hello beautiful theme 2, sommon woman themme, with pink colurs, to small fo my taste, afflite?
