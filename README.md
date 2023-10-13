@@ -3,6 +3,7 @@ Genesis child themes, thats still works with Genesis framework
 
 THEMES:
 
+* MEAGHAN
 * lisa cooley, a woman or blogger style theme.
 * Leah theme
 * Julia.
