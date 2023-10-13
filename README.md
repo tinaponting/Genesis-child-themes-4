@@ -2,6 +2,8 @@
 Genesis child themes, thats still works with Genesis framework
 
 THEMES:
+
+* Ariana, good theme for bloggers or with feminine touch.
 * hello beautiful theme 2, sommon woman themme, with pink colurs, to small fo my taste, afflite?
 * Isabelle 6, fashion and news blog.
 * Classy Ink, woman blogger theme, to small for my taste, but good afflite files.
