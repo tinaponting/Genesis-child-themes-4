@@ -3,6 +3,7 @@ Genesis child themes, thats still works with Genesis framework
 
 THEMES:
 
+* VINEYARD, a good theme all blogs.
 * MEAGHAN
 * lisa cooley, a woman or blogger style theme.
 * Leah theme
