@@ -3,6 +3,7 @@ Genesis child themes, thats still works with Genesis framework
 
 THEMES:
 
+* Leah theme
 * Julia.
 * Hello Madison, a theme dor all kinds of blogs
 * Hello Beauty.
