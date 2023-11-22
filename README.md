@@ -2,7 +2,7 @@
 Genesis child themes, thats still works with Genesis framework
 
 THEMES:
-
+* Åland, light theme works for every needs of bloggs.
 * VINEYARD, a good theme all blogs.
 * MEAGHAN
 * lisa cooley, a woman or blogger style theme.
