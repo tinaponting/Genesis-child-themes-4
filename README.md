@@ -36,16 +36,19 @@ THEMES:
 
 
 
+...............................................................
+PARTS:
 
+PART 1: https://github.com/tinaponting/Genesis-child-themes
 
+PART 2: https://github.com/tinaponting/Genesis-child-themes-2
 
+PART 2: https://github.com/tinaponting/Genesis-child-themes-2
 
-Other Parts:
-Genesis themes https://github.com/tinaponting/genesis-child-themes
+PART 3 https://github.com/tinaponting/Genesis-child-themes-3
 
-Genesis themes 2 https://github.com/tinaponting/Genesis-child-themes-2
+Part 4: https://github.com/tinaponting/Genesis-child-themes-4
 
-Genesis themes 3 https://github.com/tinaponting/Genesis-child-themes-3
-
-Genesis themes 4 https://github.com/tinaponting/Genesis-child-themes-4
+Part 5: https://github.com/tinaponting/Genesis-child-themes-5
+ 
 
